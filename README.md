@@ -1,1 +1,1 @@
-CI pipeline to build and push docker image to dockerhub for my python-helloworld app
+CI pipeline for my python-helloworld app - to build and push docker image to dockerhub git add .
